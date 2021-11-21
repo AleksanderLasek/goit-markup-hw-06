@@ -949,7 +949,7 @@ img {
   letter-spacing: 0.03em;
 }
 
-.inputs form {
+.modal form {
   max-width: 448px;
   position: absolute;
   left: 40px;
