@@ -1081,6 +1081,17 @@ textarea {
   height: 15px;
 }
 
+.accept-checkbox input:checked + svg {
+  visibility: visible;
+}
+
+.check-icon {
+  left: 1px;
+  position: absolute;
+  pointer-events: none;
+  visibility: hidden;
+}
+
 .accept {
   color: #2196f3;
 }
