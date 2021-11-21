@@ -488,7 +488,7 @@ img {
   justify-content: space-between;
 }
 
-[type='submit'] span {
+.newsletter [type='submit'] span {
   margin-left: 42px;
   margin-right: 24px;
 }
